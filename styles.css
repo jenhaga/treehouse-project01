@@ -152,16 +152,6 @@ footer .copyright {
   font-size: .75em;
 }
 
-/*footer ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-footer ul li {
-  display: inline-block;
-}*/
-
 a.social {
   display: inline-block;
   text-indent: -9999px;
@@ -174,15 +164,10 @@ a.social {
   background-image: url(images/github.svg);
 }
 
-/*a.twitter {
-  background-image: url(images/twitter.svg);
-}
-a.linkedin {
-  background-image: url(images/linkedin.svg);
-}
 a.github {
   background-image: url(images/github.svg);
 }
+
 a.social:hover {
   opacity: 1;
 }*/
@@ -195,7 +180,7 @@ a.social:hover {
 
  #exp-body {
   background-color:#adad85;
-  background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+  background-image: url("images/brick-wall.png");
 }
 
 /* Styles for larger screens */
